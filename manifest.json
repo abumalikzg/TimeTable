@@ -1,0 +1,17 @@
+{
+  "name": "جدول المعلم",
+  "short_name": "جدول المعلم",
+  "description": "تطبيق جدول المعلم مع مؤقت العد التنازلي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
